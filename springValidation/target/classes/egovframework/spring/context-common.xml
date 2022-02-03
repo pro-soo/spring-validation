@@ -14,6 +14,7 @@
 				<value>classpath:/egovframework/message/message-common</value>
 				<value>classpath:/egovframework/rte/fdl/idgnr/messages/idgnr</value>
 				<value>classpath:/egovframework/rte/fdl/property/messages/properties</value>
+				<value>classpath:/WEB-INF/config/message/message</value>
 			</list>
 		</property>
 		<property name="cacheSeconds">
